@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<h2>Hello, it's Han 👋 :man_technologist: </h2>
+<div>
+  <img src="https://media1.tenor.com/m/psQzFHIko4MAAAAd/study-anime.gif" />
+</div>  
 <!--
 **prodigy-han/prodigy-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
