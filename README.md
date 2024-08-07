@@ -10,9 +10,10 @@ I am an international student  ✈️  from Myanmar(Burma).
 - 🧠 I solve problems and learn from Kattis, LeetCode, and GeeksforGeeks.
 - ⏳ Leisure activities : 🏋️‍♂️ 📖 🏊‍♂️ 🏸 🎸 🎱
 - 📫 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Han-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/han-htoo-satt-287925289/)
+- My Community on Discord : [![](https://dcbadge.limes.pink/api/server/https://discord.gg/tqhdKj5BwQ)](https://discord.gg/tqhdKj5BwQ)
 <h3> 🛠️ Languages and Tools :</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
