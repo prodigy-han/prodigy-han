@@ -9,7 +9,7 @@ I am an international student  ✈️  from Myanmar(Burma).
 - 🌱 I’m also pursuing **Responsive Web Design** and **Scientific Computing with Python** from <a href="https://www.freecodecamp.org/">freecodecamp</a>.
 - 🧠 I solve problems and learn from Kattis, LeetCode, and GeeksforGeeks.
 - ⏳ Leisure activities : 🏋️‍♂️ 📖 🏊‍♂️ 🏸 🎸 🎱
-- 📫 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Han-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/han-htoo-satt-287925289/)
+- 📫 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Han-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hanhtoosatt/)
 - My Community on Discord : [![](https://dcbadge.limes.pink/api/server/https://discord.gg/tqhdKj5BwQ)](https://discord.gg/tqhdKj5BwQ)
 <h3> 🛠️ Languages and Tools :</h3>
 <div>
