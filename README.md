@@ -21,3 +21,14 @@ I am an international student  ✈️  from Myanmar(Burma).
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VScode" alt="VScode" width="40" height="40"/>
 </div>
+
+---
+
+💻 For confidential purposes, I will only upload extracurricular projects I've worked on other than school work.
+
+💬 Please ask me in details for what kind of assignments/projects I've done during my CS courses at school.
+
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=prodigy-han&style=plastic&color=blue" alt=""/>
+</div>
