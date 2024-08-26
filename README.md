@@ -17,6 +17,7 @@ I am an international student  ✈️  from Myanmar(Burma).
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VScode" alt="VScode" width="40" height="40"/>
