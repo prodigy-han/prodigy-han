@@ -7,6 +7,7 @@
 I am an international student  ✈️  from Myanmar(Burma).
 - 👨‍🎓 I’m currently a Sophomore majoring in Computer Science at <a href="https://www.una.edu/">UNA</a>.
 - 🌱 I’m also pursuing **Responsive Web Design** and **Scientific Computing with Python** from <a href="https://www.freecodecamp.org/">freecodecamp</a>.
+- 🌱 I'm enrolled in WEB102 Intermediate Web Development Fall 2024 course from CodePath!
 - 🧠 I solve problems and learn from Kattis, LeetCode, and GeeksforGeeks.
 - ⏳ Leisure activities : 🏋️‍♂️ 📖 🏊‍♂️ 🏸 🎸 🎱
 - 📫 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Han-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hanhtoosatt/)
