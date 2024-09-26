@@ -29,7 +29,7 @@ I am an international student  ✈️  from Myanmar(Burma).
 
 💻 For confidential purposes, I will only upload extracurricular projects I've worked on other than academics.
 
-💬 Please ask me in details for what kind of assignments/projects I've done during my courses at school.
+💬 Please ask me in details for assignments/projects I've done during my courses at school and private repos.
 
 <br>
 <div align="center">
